@@ -36,19 +36,9 @@
         <button type="submit" style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; border-radius: 4px; cursor: pointer; font-size: 16px;">Send Message</button>
     </form>
     
-    <h2>Contact Information</h2>
-    <p>
-        <strong>Email:</strong> info@thedevclan.com<br>
-        <strong>Phone:</strong> +1 (555) 123-4567<br>
-        <strong>Address:</strong> 123 Developer Street, Tech City, TC 12345
-    </p>
+    <h2>Your form has been submitted</h2>
+  
     
-    <h2>Business Hours</h2>
-    <p>
-        Monday - Friday: 9:00 AM - 6:00 PM<br>
-        Saturday: 10:00 AM - 4:00 PM<br>
-        Sunday: Closed
-    </p>
 </div>
 
 <?php include 'footer.php'; ?>
