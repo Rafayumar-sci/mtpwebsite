@@ -174,4 +174,5 @@
     <div class="nav2">
         <input type="text" name="search" placeholder="Search...">
     </div>
+    
 </header>
