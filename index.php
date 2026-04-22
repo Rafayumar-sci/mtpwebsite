@@ -8,9 +8,7 @@
     
     <h2>Why Choose Us?</h2>
     <p>
-        With over a decade of experience in web development, we pride ourselves on delivering high-quality, scalable, and 
-        maintainable code. Our team of expert developers specializes in modern web technologies including HTML5, CSS3, JavaScript, 
-        PHP, and various popular frameworks.
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus hic doloribus itaque quia repudiandae beatae eum aperiam perspiciatis voluptate asperiores.
     </p>
     
     <h2>Our Services</h2>
