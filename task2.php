@@ -1,6 +1,6 @@
 <?php
 
-function cc($str) {
+function checker($str) {
 
 
     if (ctype_lower($str))
@@ -20,20 +20,8 @@ function cc($str) {
 
 }
 
-cc("Qasim");
+checker("qasim");
 
 echo "<br>";
-
-cc("fahad");
-
-echo "<br>";
-
-cc("sohaib");
-
-echo "<br>";
-
-cc("rafay");
-
-
 
 ?>
