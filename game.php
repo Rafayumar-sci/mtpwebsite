@@ -19,7 +19,6 @@ class Player {
     }
 }
 
-// Board Class
 class Board {
     private $grid;
     private $size;
@@ -177,11 +176,11 @@ echo "Player 2: " . $game->getCurrentPlayer()->getName() . " (" . $game->getCurr
 // Automated game play
 $game->switchPlayer();
 $moves = [
-    [0, 0], // Alice plays
-    [1, 1], // Bob plays
-    [0, 1], // Alice plays
-    [2, 1], // Bob plays
-    [0, 2]  // Alice plays (Alice wins!)
+    [0, 0], 
+    [1, 1], 
+    [0, 1], 
+    [2, 1], 
+    [0, 2]  
 ];
 
 $moveCount = 1;

@@ -1,6 +1,6 @@
 <?php
 
-class Name {
+class Name {''''
     public $name;
     public $salary;
     public $ts; 
