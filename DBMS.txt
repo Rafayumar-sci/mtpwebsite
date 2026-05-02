@@ -1,0 +1,36 @@
+ Features of DBMS
+
+
+1) Data consistency: DBMS ensures that data is consistent across the database, preventing anomalies and ensuring data integrity.
+2) Data security: DBMS provides mechanisms to control access to data, ensuring that only authorized users can access or modify the data.
+3) Data integrity
+4) data recovery
+5) multi user access 
+
+
+
+key concept of database
+
+
+TABLES 
+
+collections of rows
+
+ROWS
+
+single entry
+
+CLOUMN
+
+
+Attribute
+
+
+we use primary key to identify unique characters in our SQL TABLES
+eg. CNIC number , roll number etc
+
+
+foreign key is used to link between TABLES
+ya do datasets ko connect kernay ka liay use hoti hai
+
+
